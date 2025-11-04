@@ -1,16 +1,39 @@
 ## Hi there 👋
 
 <!--
-**Eugene0913/Eugene0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Eugene Leong!
 
-Here are some ideas to get you started:
+I’m a **Data Analyst** with experience designing scalable Power BI dashboards, optimizing SQL pipelines, and building end-to-end data solutions across **Snowflake**, **Databricks**, and **Azure** environments.  
+I enjoy turning raw data into actionable insights and developing efficient analytics systems that empower business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📍 Based in **Mountain View, CA** | Open to relocation  
+📧 leongeugenia0913@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/eugene-leong) | [GitHub](https://github.com/Eugene0913)
+
+---
+
+### 🧰 Skills & Tools
+
+**BI Tools:** Power BI (DAX), Tableau, Excel (VBA, PivotTables, Macros)  
+**Programming:** SQL, Python (Pandas, Jupyter), R, JavaScript, C#, SAS  
+**Data Engineering:** ETL, Data Modeling, Snowflake, Databricks, Azure  
+**Other Tools:** GitHub, Azure DevOps, PowerPoint  
+
+---
+
+### 🎓 Education
+
+**M.S. Information Systems (Business Intelligence Certificate)** – *University of Missouri–St. Louis*  
+**B.S. Business Administration (Supply Chain Management)** – *University of Missouri–St. Louis*  
+
+---
+
+### 🏅 Certifications
+- **Databricks Data Analyst Associate** (Issued Oct 2024)
+
+---
+
+### 🌐 Languages
+English • Mandarin • Cantonese • Malay
+
 -->
