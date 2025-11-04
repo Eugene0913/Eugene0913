@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-# 👋 Hi, I'm Eugene Leong!
 
 I’m a **Data Analyst** with experience designing scalable Power BI dashboards, optimizing SQL pipelines, and building end-to-end data solutions across **Snowflake**, **Databricks**, and **Azure** environments.  
 I enjoy turning raw data into actionable insights and developing efficient analytics systems that empower business decisions.
